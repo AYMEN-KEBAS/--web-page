@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #6abadeba;
+    font-family: 'Arial';
+  }
+  
+  .sign-heading {
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+  }
+  
+  form {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background: #23463f;
+    border-radius: 15px;
+  }
+
+  
+  legend {
+    text-align: center;
+    color: #277582;
+    font-size: 24px;
+    padding: 10px;
+  }
+  
+  
+  .form-url-button {
+    width: calc(100% - 15px);
+    height: 40px; 
+    border: none;
+    border-radius: 5px;
+    background-color: #08ffd1; 
+    color: #23463f;
+    cursor: pointer;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  
+  
+  nav {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block; 
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+  
+  a:hover {
+    background-color: #08ffd1;
+    border-radius: 50px;
+  }
+  
